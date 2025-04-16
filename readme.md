@@ -21,7 +21,7 @@ https://github.com/forestfox08/ProgTutorials/blob/main/Tutorial%200/Assets/Scrip
 
 ![uhh](./Images/Animation2.gif)
 
-https://github.com/forestfox08/ProgTutorials/tree/main/Tutorial%201/Assets
+https://github.com/forestfox08/ProgTutorials/tree/main/Tutorial%201/Assets/Scripts
 
 ## Tutorial 2
 
@@ -31,7 +31,7 @@ walking and walkingR o(*￣▽￣*)ブ
 
 ![uhh](./Images/Animation3.gif)
 
-https://github.com/forestfox08/ProgTutorials/tree/main/Tutorial%202/Assets
+https://github.com/forestfox08/ProgTutorials/tree/main/Tutorial%202/Assets/Scripts
 
 ## Tutorial 3
 
