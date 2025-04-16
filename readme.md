@@ -60,20 +60,14 @@ https://github.com/forestfox08/ProgTutorials/tree/main/Tutorial%204/Assets/Scrip
 Tutorial 5
 </p>
 
+![uhh](./Images/Animation6.gif)
+
 <p>
-NOG GEEN GIF, MOET NOG TOEGEVOEGD WORDEN!!!
+Gif is voor Tutorial 5 & 6
 </p>
 
 https://github.com/forestfox08/ProgTutorials/tree/master/Tutorial%204/Assets/Scripts
 
 ## Tutorial 6 
-
-<p>
-Tutorial 6
-</p>
-
-<p>
-NOG GEEN GIF, MOET NOG TOEGEVOEGD WORDEN!!!
-</p>
 
 https://github.com/forestfox08/ProgTutorials/tree/master/Tutorial%204/Assets/Scripts/TU-6
