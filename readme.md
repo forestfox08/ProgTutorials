@@ -65,3 +65,15 @@ NOG GEEN GIF, MOET NOG TOEGEVOEGD WORDEN!!!
 </p>
 
 https://github.com/forestfox08/ProgTutorials/tree/main/Tutorial%204/Assets/Scripts
+
+## Tutorial 6 
+
+<p>
+Tutorial 6
+</p>
+
+<p>
+NOG GEEN GIF, MOET NOG TOEGEVOEGD WORDEN!!!
+</p>
+
+https://github.com/forestfox08/ProgTutorials/tree/main/Tutorial%204/Assets/Scripts
