@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7386460804859520450}
   - component: {fileID: -1685157695934751900}
   m_Layer: 0
-  m_Name: Bullet
+  m_Name: EVIL_Bullet
   m_TagString: ProjectileBullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -65,7 +65,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c182c39fcf78f084e9b14bfcce5254c6, type: 2}
+  - {fileID: 2100000, guid: b0d7563f057ca474a9955c687e04f175, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -160,7 +160,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fea1fb0f43bb5a9439a801eed6d40e40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  targetTag: Enemy
+  targetTag: Player
   effect: {fileID: 1527773777276647923, guid: 8a6962b56ce96b445af22ebbf8e6e888, type: 3}
   effectLifetime: 2
   playerTag: Player
