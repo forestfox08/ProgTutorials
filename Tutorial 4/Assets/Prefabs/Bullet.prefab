@@ -17,7 +17,11 @@ GameObject:
   - component: {fileID: -1685157695934751900}
   m_Layer: 0
   m_Name: Bullet
+<<<<<<< HEAD
   m_TagString: ProjectileBullet
+=======
+  m_TagString: Untagged
+>>>>>>> 08acd4d6b158a8f971600f7a5650e1157787d17e
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
